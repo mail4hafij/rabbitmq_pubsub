@@ -1,4 +1,4 @@
-# rabbitmq_pubsub
+# Rabbitmq pubsub
 Simple domonstration of how to use rabbitMQ for publish and subscribe events or messages.
 
 Setup RabbitMQ on docker as follows.
