@@ -1,7 +1,7 @@
 # Rabbitmq pubsub
 Simple domonstration of how to use rabbitMQ for publish and subscribe events or messages.
-🧩 Why RabbitMQ?
 
+🧩 Why RabbitMQ?
 - Decouples producers and consumers
 - Handles message bursts with queue buffering
 - Provides configurable delivery guarantees
