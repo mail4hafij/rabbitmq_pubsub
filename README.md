@@ -2,10 +2,10 @@
 Simple domonstration of how to use rabbitMQ for publish and subscribe events or messages.
 🧩 Why RabbitMQ?
 
-. Decouples producers and consumers
-. Handles message bursts with queue buffering
-. Provides configurable delivery guarantees
-. Supports multiple consumers via exchange types (direct, topic, fanout)
+- Decouples producers and consumers
+- Handles message bursts with queue buffering
+- Provides configurable delivery guarantees
+- Supports multiple consumers via exchange types (direct, topic, fanout)
 
 🔁 Message Delivery Modes
 RabbitMQ supports different message delivery guarantees:
