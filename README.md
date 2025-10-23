@@ -9,7 +9,7 @@ Simple domonstration of how to use rabbitMQ for publish and subscribe events or 
 
 🔁 Message Delivery Modes
 RabbitMQ supports different message delivery guarantees:
-1. At most once	Messages may be lost but never redelivered.	High-frequency, non-critical telemetry (used here).
+1. At most once	Messages may be lost but never redelivered.	High-frequency, non-critical telemetry.
 2. At least once	Messages are retried until acknowledged.	Reliable event delivery (e.g., billing, transactions).
 3. Exactly once	Each message processed once (usually simulated via idempotency).	Rare; costly to implement.
 
